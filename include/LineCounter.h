@@ -8,9 +8,7 @@
 #ifndef LINECOUNTER_H_
 #define LINECOUNTER_H_
 
-#include <string>
-
-extern int getCount(std::string);
+extern int getCount(char*);
 
 
 #endif /* LINECOUNTER_H_ */
